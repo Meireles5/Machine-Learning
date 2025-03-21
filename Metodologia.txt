@@ -1,0 +1,21 @@
+Este ficheiro de texto server para delinearmos uma estratégia para o trabalho:
+
+Na minha Opinião cada um devia criar um branch no git para ter o seu código e experimentar o que quiser, na main deixamos o código que cria os datasets os fiicheiros csv se quiserem, e os ficheiros finais do trabalho.
+
+Este ficheiro vai ficar aqui editável para todos conseguirem deixar comentários, opiniões ou informações importantes que achem relevantes.
+Para além contem a abordagem para o trabalho abaixo :
+
+# Metodologia 
+
+    Criar Dataset's, variando paramétros 
+                |
+                |
+                v
+            Assumptions 
+                |
+                |
+                v
+          Bias and Variace 
+                |
+                v 
+            ensembles 

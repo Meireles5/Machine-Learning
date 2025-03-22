@@ -8,10 +8,15 @@ Para além contem a abordagem para o trabalho abaixo :
 # Metodologia 
 
     Criar Dataset's, variando paramétros 
+        (Verificar Regressão)
+         (Cross validation)
                 |
                 |
                 v
             Assumptions 
+       (Verificar assumptions)
+      (Tempo de cada algoritmo)
+
                 |
                 |
                 v
